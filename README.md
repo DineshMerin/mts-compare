@@ -1,4 +1,3 @@
-# mts-compare
 # Time Series Transformer Benchmark — Reproducible Suite
 
 This repository implements a **transparent, publication-ready** benchmarking pipeline for **multivariate time series forecasting**.
@@ -50,4 +49,3 @@ Update `MODEL_REGISTRY` in `run_experiment.py`. The rest of the pipeline (metric
 
 ## License
 MIT
-
